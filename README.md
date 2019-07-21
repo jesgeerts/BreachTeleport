@@ -1,2 +1,2 @@
 # BreachTeleport
-A _/wild_ command for the server BreachPvP.com, it works with the plugin by 
+A _/wild_ command for the server BreachPvP.com, it works with this [plugin](https://www.spigotmc.org/resources/randomtp-ᴏʀɪɢɪɴᴀʟ-sign-gui-menu-now-recoded-best-random-teleport-plugin.5084/)
