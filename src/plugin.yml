@@ -1,0 +1,12 @@
+name: BreachWild
+version: 1.0
+author: Jesse Geerts
+website: www.jessegeerts.nl
+main: nl.jessegeerts.breachpvp.breachwildteleport.Main
+commands:
+  wild:
+    usage: /<command>
+    description: Teleport you to the wilderness.
+    aliases:
+      - rtp
+      - randomtp
